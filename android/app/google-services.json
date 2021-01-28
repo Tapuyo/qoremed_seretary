@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "130856964904",
+    "firebase_url": "https://qoremed-4297a.firebaseio.com",
+    "project_id": "qoremed-4297a",
+    "storage_bucket": "qoremed-4297a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130856964904:android:c0b7d53bb6e4e608b2b61d",
+        "android_client_info": {
+          "package_name": "com.bluesclue.qoremed_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130856964904-2ncolsu7amdlf45iq09th9c7n2lvatqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFcRNFEOLyzYDdKaP6c8xEcbQ9IZMV2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130856964904-2ncolsu7amdlf45iq09th9c7n2lvatqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130856964904:android:e46e027b1f9a2a3fb2b61d",
+        "android_client_info": {
+          "package_name": "com.bluesclue.qoremed_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130856964904-2ncolsu7amdlf45iq09th9c7n2lvatqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFcRNFEOLyzYDdKaP6c8xEcbQ9IZMV2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130856964904-2ncolsu7amdlf45iq09th9c7n2lvatqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130856964904:android:a4b7c28f49ff45c5b2b61d",
+        "android_client_info": {
+          "package_name": "com.bluesclue.qoremed_secretary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130856964904-2ncolsu7amdlf45iq09th9c7n2lvatqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFcRNFEOLyzYDdKaP6c8xEcbQ9IZMV2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130856964904-2ncolsu7amdlf45iq09th9c7n2lvatqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
